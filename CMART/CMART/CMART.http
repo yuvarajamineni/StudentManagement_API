@@ -1,6 +1,0 @@
-@CMART_HostAddress = http://localhost:5137
-
-GET {{CMART_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
