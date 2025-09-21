@@ -1,0 +1,17 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.nupkg
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Other editor settings
+.vscode/
