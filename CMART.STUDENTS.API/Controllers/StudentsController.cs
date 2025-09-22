@@ -14,7 +14,6 @@ namespace StudentManagement.Controllers
         public StudentsController(IStudentService studentService)
         {
             this.studentService = studentService;
-            this.studentService = studentService;
         }
         // GET: api/<StudentsController>
         [HttpGet]
