@@ -1,7 +1,7 @@
 ﻿using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
-namespace StudentManagement.Models 
+namespace CMART.STUDENTS.CORE.Models
 {
     [BsonIgnoreExtraElements]
     public class Student

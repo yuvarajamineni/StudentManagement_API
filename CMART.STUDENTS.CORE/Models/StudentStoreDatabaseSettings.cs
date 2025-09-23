@@ -1,4 +1,4 @@
-﻿namespace StudentManagement.Models
+﻿namespace CMART.STUDENTS.CORE.Models
 {
     public class StudentStoreDatabaseSettings : IStudentStoreDatabaseSettings
     {

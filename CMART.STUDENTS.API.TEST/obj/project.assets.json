@@ -2131,6 +2131,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "CMART.STUDENTS.CORE": "1.0.0",
+          "CMART.STUDENTS.INFRASTRUCTURE": "1.0.0",
           "CMART.STUDENTS.SERVICES": "1.0.0",
           "Microsoft.Extensions.Logging": "9.0.9",
           "Swashbuckle.AspNetCore": "6.6.2"

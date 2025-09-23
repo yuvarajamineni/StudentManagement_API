@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CMART.STUDENTS.INFRASTRUCTURE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27d1bc1dbbd9bfe73d010a0359b5c5a71bacdafb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CMART.STUDENTS.INFRASTRUCTURE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CMART.STUDENTS.INFRASTRUCTURE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

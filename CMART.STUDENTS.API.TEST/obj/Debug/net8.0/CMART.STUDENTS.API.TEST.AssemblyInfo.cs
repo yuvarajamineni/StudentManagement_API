@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CMART.STUDENTS.API.TEST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cad0afebc03cdd27581af3c12938871fd16182de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27d1bc1dbbd9bfe73d010a0359b5c5a71bacdafb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CMART.STUDENTS.API.TEST")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CMART.STUDENTS.API.TEST")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

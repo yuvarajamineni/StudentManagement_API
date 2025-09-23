@@ -605,11 +605,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Assignments\\.NET\\CMART.STUDENTS.APII\\CMART.STUDENTS.API\\CMART.STUDENTS.CORE\\CMART.STUDENTS.CORE.csproj",
+      "projectUniqueName": "C:\\Assignments\\.NET\\CMART.STUDENTS.API\\CMART.STUDENTS.CORE\\CMART.STUDENTS.CORE.csproj",
       "projectName": "CMART.STUDENTS.CORE",
-      "projectPath": "C:\\Assignments\\.NET\\CMART.STUDENTS.APII\\CMART.STUDENTS.API\\CMART.STUDENTS.CORE\\CMART.STUDENTS.CORE.csproj",
+      "projectPath": "C:\\Assignments\\.NET\\CMART.STUDENTS.API\\CMART.STUDENTS.CORE\\CMART.STUDENTS.CORE.csproj",
       "packagesPath": "C:\\Users\\YuvarajA\\.nuget\\packages\\",
-      "outputPath": "C:\\Assignments\\.NET\\CMART.STUDENTS.APII\\CMART.STUDENTS.API\\CMART.STUDENTS.CORE\\obj\\",
+      "outputPath": "C:\\Assignments\\.NET\\CMART.STUDENTS.API\\CMART.STUDENTS.CORE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

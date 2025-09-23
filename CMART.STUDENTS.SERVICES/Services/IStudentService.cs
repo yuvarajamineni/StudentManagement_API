@@ -1,6 +1,6 @@
-﻿using StudentManagement.Models;
+﻿using CMART.STUDENTS.CORE.Models;
 
-namespace StudentManagement.Services
+namespace CMART.STUDENTS.SERVICES.Services
 {
     public interface IStudentService
     {
