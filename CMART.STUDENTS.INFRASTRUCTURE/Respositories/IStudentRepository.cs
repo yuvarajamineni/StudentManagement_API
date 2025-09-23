@@ -1,6 +1,6 @@
-﻿using CMART.STUDENTS.CORE.Models;
+﻿using StudentManagement.Models;
 
-namespace CMART.STUDENTS.INFRASTRUCTURE.Respositories
+namespace StudentManagement.Repositories
 {
     public interface IStudentRepository
     {

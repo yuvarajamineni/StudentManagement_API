@@ -1449,6 +1449,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "CMART.STUDENTS.CORE >= 1.0.0",
+      "CMART.STUDENTS.INFRASTRUCTURE >= 1.0.0",
       "CMART.STUDENTS.SERVICES >= 1.0.0",
       "Microsoft.Extensions.Logging >= 9.0.9",
       "Swashbuckle.AspNetCore >= 6.6.2"
@@ -1489,6 +1490,9 @@
           "projectReferences": {
             "C:\\Assignments\\.NET\\CMART.STUDENTS.API\\CMART.STUDENTS.CORE\\CMART.STUDENTS.CORE.csproj": {
               "projectPath": "C:\\Assignments\\.NET\\CMART.STUDENTS.API\\CMART.STUDENTS.CORE\\CMART.STUDENTS.CORE.csproj"
+            },
+            "C:\\Assignments\\.NET\\CMART.STUDENTS.API\\CMART.STUDENTS.INFRASTRUCTURE\\CMART.STUDENTS.INFRASTRUCTURE.csproj": {
+              "projectPath": "C:\\Assignments\\.NET\\CMART.STUDENTS.API\\CMART.STUDENTS.INFRASTRUCTURE\\CMART.STUDENTS.INFRASTRUCTURE.csproj"
             },
             "C:\\Assignments\\.NET\\CMART.STUDENTS.API\\CMART.STUDENTS.SERVICES\\CMART.STUDENTS.SERVICES.csproj": {
               "projectPath": "C:\\Assignments\\.NET\\CMART.STUDENTS.API\\CMART.STUDENTS.SERVICES\\CMART.STUDENTS.SERVICES.csproj"

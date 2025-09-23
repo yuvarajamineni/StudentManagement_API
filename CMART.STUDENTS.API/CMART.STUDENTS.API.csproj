@@ -14,6 +14,7 @@
   <ItemGroup>
     <ProjectReference Include="..\CMART.STUDENTS.CORE\CMART.STUDENTS.CORE.csproj" />
     <ProjectReference Include="..\CMART.STUDENTS.SERVICES\CMART.STUDENTS.SERVICES.csproj" />
+    <ProjectReference Include="..\CMART.STUDENTS.INFRASTRUCTURE\CMART.STUDENTS.INFRASTRUCTURE.csproj" />
   </ItemGroup>
 
   <ItemGroup>

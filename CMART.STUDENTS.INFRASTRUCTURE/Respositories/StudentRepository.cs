@@ -1,7 +1,7 @@
-﻿using CMART.STUDENTS.CORE.Models;
-using MongoDB.Driver;
+﻿using MongoDB.Driver;
+using StudentManagement.Models;
 
-namespace CMART.STUDENTS.INFRASTRUCTURE.Respositories
+namespace StudentManagement.Repositories
 {
     public class StudentRepository : IStudentRepository
     {
