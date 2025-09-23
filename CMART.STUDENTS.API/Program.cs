@@ -6,8 +6,8 @@ using CMART.STUDENTS.CORE.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Logging
-builder.Services.AddLogging();
+// Add console logging and your existing custom file logger
+builder.Logging.AddConsole();
 builder.Logging.AddProvider(new SimpleFileLoggerProvider("logs/student_api_log.txt"));
 
 // Configure MongoDB settings
@@ -46,6 +46,17 @@ builder.WebHost.UseUrls("http://localhost:5212", "https://localhost:5213");
 
 var app = builder.Build();
 
+// Log application startup
+app.Logger.LogInformation("Application starting up");
+
+// Middleware to log HTTP request start and end
+app.Use(async (context, next) =>
+{
+    app.Logger.LogInformation("Handling request: {Method} {Path}", context.Request.Method, context.Request.Path);
+    await next.Invoke();
+    app.Logger.LogInformation("Finished handling request");
+});
+
 // Enable CORS
 app.UseCors("AllowAll");
 
@@ -63,4 +74,8 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseAuthorization();
 app.MapControllers();
+
+// Log application ready state
+app.Logger.LogInformation("Application started and ready to handle requests");
+
 app.Run();

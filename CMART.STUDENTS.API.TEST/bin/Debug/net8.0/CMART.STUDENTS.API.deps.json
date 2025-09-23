@@ -9,8 +9,10 @@
       "CMART.STUDENTS.API/1.0.0": {
         "dependencies": {
           "CMART.STUDENTS.CORE": "1.0.0",
+          "CMART.STUDENTS.INFRASTRUCTURE": "1.0.0",
           "CMART.STUDENTS.SERVICES": "1.0.0",
           "Microsoft.Extensions.Logging": "9.0.9",
+          "MongoDB.Driver": "3.5.0",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "runtime": {
