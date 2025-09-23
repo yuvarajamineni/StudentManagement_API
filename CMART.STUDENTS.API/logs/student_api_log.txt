@@ -1,0 +1,34 @@
+﻿2025-09-22 11:42:48Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-22 11:42:48Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-22 11:42:48Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-22 11:42:48Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-22 11:45:52Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-22 11:45:52Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-22 11:45:52Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-22 11:45:52Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-22 11:47:15Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-22 11:47:15Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-22 11:47:15Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-22 11:47:15Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-22 12:06:56Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-22 12:06:56Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-22 12:06:56Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-22 12:06:56Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-22 12:07:03Z [Warning] Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware: Failed to determine the https port for redirect.
+2025-09-22 12:07:05Z [Information] StudentManagement.Controllers.StudentsController: Getting all students
+2025-09-22 12:09:46Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-22 12:09:47Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-22 12:09:47Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-22 12:09:47Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-22 12:09:52Z [Warning] Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware: Failed to determine the https port for redirect.
+2025-09-22 12:09:52Z [Information] StudentManagement.Controllers.StudentsController: Getting all students
+2025-09-22 14:55:34Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-22 14:55:34Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-22 14:55:34Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-22 14:55:34Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-22 15:12:29Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-22 15:12:29Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-22 15:12:29Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-22 15:12:29Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-22 15:12:37Z [Warning] Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware: Failed to determine the https port for redirect.
+2025-09-22 15:12:38Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Getting all students

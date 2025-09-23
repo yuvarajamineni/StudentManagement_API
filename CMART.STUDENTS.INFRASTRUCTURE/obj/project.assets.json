@@ -623,11 +623,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Assignments\\.NET\\CMART.STUDENTS.APII\\CMART.STUDENTS.API\\CMART.STUDENTS.INFRASTRUCTURE\\CMART.STUDENTS.INFRASTRUCTURE.csproj",
+      "projectUniqueName": "C:\\Assignments\\.NET\\CMART.STUDENTS.API\\CMART.STUDENTS.INFRASTRUCTURE\\CMART.STUDENTS.INFRASTRUCTURE.csproj",
       "projectName": "CMART.STUDENTS.INFRASTRUCTURE",
-      "projectPath": "C:\\Assignments\\.NET\\CMART.STUDENTS.APII\\CMART.STUDENTS.API\\CMART.STUDENTS.INFRASTRUCTURE\\CMART.STUDENTS.INFRASTRUCTURE.csproj",
+      "projectPath": "C:\\Assignments\\.NET\\CMART.STUDENTS.API\\CMART.STUDENTS.INFRASTRUCTURE\\CMART.STUDENTS.INFRASTRUCTURE.csproj",
       "packagesPath": "C:\\Users\\YuvarajA\\.nuget\\packages\\",
-      "outputPath": "C:\\Assignments\\.NET\\CMART.STUDENTS.APII\\CMART.STUDENTS.API\\CMART.STUDENTS.INFRASTRUCTURE\\obj\\",
+      "outputPath": "C:\\Assignments\\.NET\\CMART.STUDENTS.API\\CMART.STUDENTS.INFRASTRUCTURE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -649,8 +649,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Assignments\\.NET\\CMART.STUDENTS.APII\\CMART.STUDENTS.API\\CMART.STUDENTS.CORE\\CMART.STUDENTS.CORE.csproj": {
-              "projectPath": "C:\\Assignments\\.NET\\CMART.STUDENTS.APII\\CMART.STUDENTS.API\\CMART.STUDENTS.CORE\\CMART.STUDENTS.CORE.csproj"
+            "C:\\Assignments\\.NET\\CMART.STUDENTS.API\\CMART.STUDENTS.CORE\\CMART.STUDENTS.CORE.csproj": {
+              "projectPath": "C:\\Assignments\\.NET\\CMART.STUDENTS.API\\CMART.STUDENTS.CORE\\CMART.STUDENTS.CORE.csproj"
             }
           }
         }

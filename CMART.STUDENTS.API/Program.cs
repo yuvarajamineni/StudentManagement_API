@@ -1,10 +1,12 @@
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
-using StudentManagement.Repositories;
-using StudentManagement.Models;
-using StudentManagement.Services;
+using CMART.STUDENTS.SERVICES.Services;
+using CMART.STUDENTS.INFRASTRUCTURE.Respositories;
+using CMART.STUDENTS.CORE.Models;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddLogging();
 
 // Add services to the container.
 builder.Services.Configure<StudentStoreDatabaseSettings>(
@@ -19,6 +21,7 @@ builder.Services.AddSingleton<IMongoClient>(s =>
 // Register repository + service
 builder.Services.AddScoped<IStudentRepository, StudentRepository>();
 builder.Services.AddScoped<IStudentService, StudentService>();
+builder.Logging.AddProvider(new SimpleFileLoggerProvider("logs/student_api_log.txt"));
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();

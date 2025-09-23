@@ -1,7 +1,7 @@
-﻿using StudentManagement.Models;
-using StudentManagement.Repositories;
+﻿using CMART.STUDENTS.CORE.Models;
+using CMART.STUDENTS.INFRASTRUCTURE.Respositories;
 
-namespace StudentManagement.Services
+namespace CMART.STUDENTS.SERVICES.Services
 {
     public class StudentService : IStudentService
     {

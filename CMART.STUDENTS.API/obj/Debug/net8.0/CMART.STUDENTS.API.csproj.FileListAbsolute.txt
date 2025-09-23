@@ -92,3 +92,11 @@ C:\Assignments\.NET\CMART.STUDENTS.APII\CMART.STUDENTS.API\CMART.STUDENTS.API\ob
 C:\Assignments\.NET\CMART.STUDENTS.APII\CMART.STUDENTS.API\CMART.STUDENTS.API\obj\Debug\net8.0\CMART.STUDENTS.API.pdb
 C:\Assignments\.NET\CMART.STUDENTS.APII\CMART.STUDENTS.API\CMART.STUDENTS.API\obj\Debug\net8.0\CMART.STUDENTS.API.genruntimeconfig.cache
 C:\Assignments\.NET\CMART.STUDENTS.APII\CMART.STUDENTS.API\CMART.STUDENTS.API\obj\Debug\net8.0\ref\CMART.STUDENTS.API.dll
+C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API\obj\Debug\net8.0\CMART.STUDENTS.API.sourcelink.json
+C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll

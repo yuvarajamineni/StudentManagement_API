@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fn4PGt2gMsw=",
+  "dgSpecHash": "mqIx3Zm+X9k=",
   "success": true,
-  "projectFilePath": "C:\\Assignments\\.NET\\CMART.STUDENTS.APII\\CMART.STUDENTS.API\\CMART.STUDENTS.CORE\\CMART.STUDENTS.CORE.csproj",
+  "projectFilePath": "C:\\Assignments\\.NET\\CMART.STUDENTS.API\\CMART.STUDENTS.CORE\\CMART.STUDENTS.CORE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YuvarajA\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\YuvarajA\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",

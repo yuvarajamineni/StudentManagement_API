@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "StudentManagement.Controllers.StudentsController",
+    "ContainingType": "CMART.STUDENTS.API.Controllers.StudentsController",
     "Method": "Get",
     "RelativePath": "api/Students",
     "HttpMethod": "GET",
@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[StudentManagement.Models.Student, CMART.STUDENTS.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[CMART.STUDENTS.CORE.Models.Student, CMART.STUDENTS.CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "ContainingType": "StudentManagement.Controllers.StudentsController",
+    "ContainingType": "CMART.STUDENTS.API.Controllers.StudentsController",
     "Method": "Post",
     "RelativePath": "api/Students",
     "HttpMethod": "POST",
@@ -29,13 +29,13 @@
     "Parameters": [
       {
         "Name": "student",
-        "Type": "StudentManagement.Models.Student",
+        "Type": "CMART.STUDENTS.CORE.Models.Student",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "StudentManagement.Models.Student",
+        "Type": "CMART.STUDENTS.CORE.Models.Student",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "ContainingType": "StudentManagement.Controllers.StudentsController",
+    "ContainingType": "CMART.STUDENTS.API.Controllers.StudentsController",
     "Method": "Get",
     "RelativePath": "api/Students/{id}",
     "HttpMethod": "GET",
@@ -61,7 +61,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "StudentManagement.Models.Student",
+        "Type": "CMART.STUDENTS.CORE.Models.Student",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "ContainingType": "StudentManagement.Controllers.StudentsController",
+    "ContainingType": "CMART.STUDENTS.API.Controllers.StudentsController",
     "Method": "Put",
     "RelativePath": "api/Students/{id}",
     "HttpMethod": "PUT",
@@ -86,14 +86,14 @@
       },
       {
         "Name": "student",
-        "Type": "StudentManagement.Models.Student",
+        "Type": "CMART.STUDENTS.CORE.Models.Student",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "StudentManagement.Controllers.StudentsController",
+    "ContainingType": "CMART.STUDENTS.API.Controllers.StudentsController",
     "Method": "Delete",
     "RelativePath": "api/Students/{id}",
     "HttpMethod": "DELETE",
