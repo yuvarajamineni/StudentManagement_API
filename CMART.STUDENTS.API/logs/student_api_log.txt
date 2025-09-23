@@ -32,3 +32,42 @@
 2025-09-22 15:12:29Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
 2025-09-22 15:12:37Z [Warning] Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware: Failed to determine the https port for redirect.
 2025-09-22 15:12:38Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Getting all students
+2025-09-23 07:10:04Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:61734
+2025-09-23 07:10:04Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:61735
+2025-09-23 07:10:04Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-23 07:10:04Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-23 07:10:04Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-23 07:11:21Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:61734
+2025-09-23 07:11:21Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:61735
+2025-09-23 07:11:21Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-23 07:11:21Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-23 07:11:21Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-23 07:12:27Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:61734
+2025-09-23 07:12:27Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:61735
+2025-09-23 07:12:27Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-23 07:12:27Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-23 07:12:27Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-23 07:14:11Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Getting all students
+2025-09-23 07:15:45Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:61734
+2025-09-23 07:15:45Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:61735
+2025-09-23 07:15:45Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-23 07:15:45Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-23 07:15:45Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-23 07:20:27Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-23 07:20:27Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-23 07:20:27Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-23 07:20:27Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-23 07:20:27Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-23 07:20:35Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Getting all students
+2025-09-23 07:22:08Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-23 07:22:08Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-23 07:22:08Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-23 07:22:08Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-23 07:22:08Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-23 07:22:14Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Getting all students
+2025-09-23 08:36:49Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-23 08:36:49Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-23 08:36:49Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-23 08:36:49Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-23 08:36:49Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-23 08:36:58Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Getting all students
