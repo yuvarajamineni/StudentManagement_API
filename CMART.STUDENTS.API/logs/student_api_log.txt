@@ -86,3 +86,717 @@
 2025-09-23 11:57:47Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Received request to create a new student with Name Alice Johnson
 2025-09-23 11:57:47Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Successfully created student with Id 650a9f85b27c3c2b4d9f1234
 2025-09-23 11:57:47Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-24 11:39:22Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-24 11:39:23Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-24 11:39:24Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-24 11:39:24Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-24 11:39:24Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-24 11:39:24Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-24 11:39:24Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-24 11:39:26Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-24 11:39:26Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-24 11:39:26Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-24 11:39:26Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-24 11:39:33Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-24 11:39:33Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-24 11:39:33Z [Information] CMART.STUDENTS.API: Handling request: GET /favicon.ico
+2025-09-24 11:39:33Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:01:28Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-25 05:01:29Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-25 05:01:30Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-25 05:01:30Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-25 05:01:30Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-25 05:01:30Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-25 05:01:30Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-25 05:01:31Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-25 05:01:31Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:01:32Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-25 05:01:32Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:07:10Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-25 05:07:10Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:07:11Z [Information] CMART.STUDENTS.API: Handling request: GET /favicon.ico
+2025-09-25 05:07:11Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:08:36Z [Information] CMART.STUDENTS.API: Handling request: GET /api/Students
+2025-09-25 05:08:36Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:19:58Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-25 05:19:58Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-25 05:19:59Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-25 05:19:59Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-25 05:19:59Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-25 05:19:59Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-25 05:19:59Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-25 05:20:00Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-25 05:20:00Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:20:00Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-25 05:20:00Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:26:38Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-25 05:26:38Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-25 05:26:38Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-25 05:26:38Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-25 05:26:39Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-25 05:26:39Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-25 05:26:39Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-25 05:26:40Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-25 05:26:40Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:26:40Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-25 05:26:40Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:29:56Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 05:29:56Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:30:17Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 05:30:17Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:33:07Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-25 05:33:08Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-25 05:33:08Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-25 05:33:08Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-25 05:33:08Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-25 05:33:08Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-25 05:33:08Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-25 05:33:09Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-25 05:33:09Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:33:10Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-25 05:33:10Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:33:48Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 05:33:48Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:33:53Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 05:33:53Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:41:13Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-25 05:41:13Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-25 05:41:13Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-25 05:41:13Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-25 05:41:13Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-25 05:41:13Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-25 05:41:13Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-25 05:41:14Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-25 05:41:14Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:41:15Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-25 05:41:15Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:41:46Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 05:41:46Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:52:58Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-25 05:52:58Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-25 05:52:59Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-25 05:52:59Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-25 05:52:59Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-25 05:52:59Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-25 05:52:59Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-25 05:53:00Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-25 05:53:00Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:53:00Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-25 05:53:00Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:53:31Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 05:53:32Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:57:21Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-25 05:57:21Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-25 05:57:22Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-25 05:57:22Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-25 05:57:22Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-25 05:57:22Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-25 05:57:22Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-25 05:57:23Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-25 05:57:23Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:57:23Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-25 05:57:23Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:57:40Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 05:57:40Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 05:58:03Z [Information] CMART.STUDENTS.API: Handling request: GET /api/Students
+2025-09-25 05:58:03Z [Error] Program: Authentication failed.
+System.ArgumentException: IDX14102: Unable to decode the header '[PII of type 'Microsoft.IdentityModel.Logging.SecurityArtifact' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' as Base64Url encoded string.
+ ---> System.FormatException: IDX10400: Unable to decode: '[PII of type 'System.String' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' as Base64url encoded string.
+   at Microsoft.IdentityModel.Tokens.Base64UrlEncoder.Decode(ReadOnlySpan`1 strSpan, Span`1 output, Boolean needReplace, Int32 decodedLength)
+   at Microsoft.IdentityModel.Tokens.Base64UrlEncoder.Decode(ReadOnlySpan`1 strSpan, Span`1 output)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.CreateClaimSet(ReadOnlySpan`1 strSpan, Int32 startIndex, Int32 length, Boolean createHeaderClaimSet)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   --- End of inner exception stack trace ---
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken..ctor(String jwtEncodedString)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ReadToken(String token, TokenValidationParameters validationParameters)
+2025-09-25 05:58:04Z [Warning] Program: OnChallenge: Error - invalid_token, Description: 
+2025-09-25 05:58:04Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 06:02:18Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-25 06:02:18Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-25 06:02:19Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-25 06:02:19Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-25 06:02:19Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-25 06:02:19Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-25 06:02:19Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-25 06:02:20Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-25 06:02:20Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 06:02:20Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-25 06:02:20Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 06:02:38Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 06:02:39Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 06:04:34Z [Information] CMART.STUDENTS.API: Handling request: GET /api/Students
+2025-09-25 06:04:34Z [Warning] Program: OnChallenge: Error - , Description: 
+2025-09-25 06:04:34Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 06:09:52Z [Information] CMART.STUDENTS.API: Handling request: GET /api/Students
+2025-09-25 06:09:53Z [Error] Program: Authentication failed.
+System.ArgumentException: IDX14102: Unable to decode the header '[PII of type 'Microsoft.IdentityModel.Logging.SecurityArtifact' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' as Base64Url encoded string.
+ ---> System.FormatException: IDX10400: Unable to decode: '[PII of type 'System.String' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' as Base64url encoded string.
+   at Microsoft.IdentityModel.Tokens.Base64UrlEncoder.Decode(ReadOnlySpan`1 strSpan, Span`1 output, Boolean needReplace, Int32 decodedLength)
+   at Microsoft.IdentityModel.Tokens.Base64UrlEncoder.Decode(ReadOnlySpan`1 strSpan, Span`1 output)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.CreateClaimSet(ReadOnlySpan`1 strSpan, Int32 startIndex, Int32 length, Boolean createHeaderClaimSet)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   --- End of inner exception stack trace ---
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken..ctor(String jwtEncodedString)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ReadToken(String token, TokenValidationParameters validationParameters)
+2025-09-25 06:09:53Z [Warning] Program: OnChallenge: Error - invalid_token, Description: 
+2025-09-25 06:09:53Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 06:10:21Z [Information] CMART.STUDENTS.API: Handling request: GET /api/Students
+2025-09-25 06:10:22Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Get all students request
+2025-09-25 06:10:55Z [Error] CMART.STUDENTS.API.Controllers.StudentsController: Error fetching students
+System.AggregateException: One or more errors occurred. (A timeout occurred after 30005ms selecting a server using CompositeServerSelector{ Selectors = ReadPreferenceServerSelector{ ReadPreference = { Mode : Primary } }, LatencyLimitingServerSelector{ AllowedLatencyRange = 00:00:00.0150000 }, OperationsCountServerSelector }. Client view of cluster state is { ClusterId : "1", Type : "ReplicaSet", State : "Disconnected", Servers : [{ ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-00.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-00.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T06:10:52.9217602Z", LastUpdateTimestamp: "2025-09-25T06:10:52.9217604Z" }, { ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-01.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-01.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T06:10:52.9247767Z", LastUpdateTimestamp: "2025-09-25T06:10:52.9247769Z" }, { ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-02.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-02.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T06:10:52.9217279Z", LastUpdateTimestamp: "2025-09-25T06:10:52.9217281Z" }] }.)
+ ---> System.TimeoutException: A timeout occurred after 30005ms selecting a server using CompositeServerSelector{ Selectors = ReadPreferenceServerSelector{ ReadPreference = { Mode : Primary } }, LatencyLimitingServerSelector{ AllowedLatencyRange = 00:00:00.0150000 }, OperationsCountServerSelector }. Client view of cluster state is { ClusterId : "1", Type : "ReplicaSet", State : "Disconnected", Servers : [{ ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-00.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-00.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T06:10:52.9217602Z", LastUpdateTimestamp: "2025-09-25T06:10:52.9217604Z" }, { ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-01.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-01.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T06:10:52.9247767Z", LastUpdateTimestamp: "2025-09-25T06:10:52.9247769Z" }, { ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-02.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-02.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T06:10:52.9217279Z", LastUpdateTimestamp: "2025-09-25T06:10:52.9217281Z" }] }.
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServerAsync(OperationContext operationContext, IServerSelector selector)
+   at MongoDB.Driver.Core.Clusters.IClusterExtensions.SelectServerAndPinIfNeededAsync(IClusterInternal cluster, OperationContext operationContext, ICoreSessionHandle session, IServerSelector selector, IReadOnlyCollection`1 deprioritizedServers)
+   at MongoDB.Driver.Core.Bindings.ReadPreferenceBinding.GetReadChannelSourceAsync(OperationContext operationContext, IReadOnlyCollection`1 deprioritizedServers)
+   at MongoDB.Driver.Core.Operations.RetryableReadContext.AcquireOrReplaceChannelAsync(OperationContext operationContext, IReadOnlyCollection`1 deprioritizedServers)
+   at MongoDB.Driver.Core.Operations.RetryableReadContext.CreateAsync(OperationContext operationContext, IReadBinding binding, Boolean retryRequested)
+   at MongoDB.Driver.Core.Operations.FindOperation`1.ExecuteAsync(OperationContext operationContext, IReadBinding binding)
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperationAsync[TResult](OperationContext operationContext, IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, Boolean allowChannelPinning)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperationAsync[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference explicitReadPreference, Nullable`1 timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindAsync[TProjection](FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.IAsyncCursorSourceExtensions.ToListAsync[TDocument](IAsyncCursorSource`1 source, CancellationToken cancellationToken)
+   at CMART.STUDENTS.INFRASTRUCTURE.Respositories.StudentRepository.GetAllAsync() in C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.INFRASTRUCTURE\Respositories\StudentRepository.cs:line 17
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at CMART.STUDENTS.SERVICES.Services.StudentService.Get() in C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.SERVICES\Services\StudentService.cs:line 23
+   at CMART.STUDENTS.API.Controllers.StudentsController.Get() in C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API\Controllers\StudentsController.cs:line 32
+2025-09-25 06:10:55Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 06:42:12Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-25 06:42:12Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-25 06:42:13Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-25 06:42:13Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-25 06:42:13Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-25 06:42:13Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-25 06:42:13Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-25 06:42:14Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-25 06:42:14Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 06:42:14Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-25 06:42:14Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 06:42:57Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 06:42:57Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 06:43:24Z [Information] CMART.STUDENTS.API: Handling request: GET /api/Students
+2025-09-25 06:43:25Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Get all students request
+2025-09-25 06:43:55Z [Error] CMART.STUDENTS.API.Controllers.StudentsController: Error fetching students
+System.AggregateException: One or more errors occurred. (A timeout occurred after 30005ms selecting a server using CompositeServerSelector{ Selectors = ReadPreferenceServerSelector{ ReadPreference = { Mode : Primary } }, LatencyLimitingServerSelector{ AllowedLatencyRange = 00:00:00.0150000 }, OperationsCountServerSelector }. Client view of cluster state is { ClusterId : "1", Type : "ReplicaSet", State : "Disconnected", Servers : [{ ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-00.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-00.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T06:43:54.7058637Z", LastUpdateTimestamp: "2025-09-25T06:43:54.7058639Z" }, { ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-01.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-01.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T06:43:54.7055058Z", LastUpdateTimestamp: "2025-09-25T06:43:54.7055061Z" }, { ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-02.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-02.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T06:43:54.7055195Z", LastUpdateTimestamp: "2025-09-25T06:43:54.7055198Z" }] }.)
+ ---> System.TimeoutException: A timeout occurred after 30005ms selecting a server using CompositeServerSelector{ Selectors = ReadPreferenceServerSelector{ ReadPreference = { Mode : Primary } }, LatencyLimitingServerSelector{ AllowedLatencyRange = 00:00:00.0150000 }, OperationsCountServerSelector }. Client view of cluster state is { ClusterId : "1", Type : "ReplicaSet", State : "Disconnected", Servers : [{ ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-00.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-00.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T06:43:54.7058637Z", LastUpdateTimestamp: "2025-09-25T06:43:54.7058639Z" }, { ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-01.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-01.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T06:43:54.7055058Z", LastUpdateTimestamp: "2025-09-25T06:43:54.7055061Z" }, { ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-02.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-02.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T06:43:54.7055195Z", LastUpdateTimestamp: "2025-09-25T06:43:54.7055198Z" }] }.
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServerAsync(OperationContext operationContext, IServerSelector selector)
+   at MongoDB.Driver.Core.Clusters.IClusterExtensions.SelectServerAndPinIfNeededAsync(IClusterInternal cluster, OperationContext operationContext, ICoreSessionHandle session, IServerSelector selector, IReadOnlyCollection`1 deprioritizedServers)
+   at MongoDB.Driver.Core.Bindings.ReadPreferenceBinding.GetReadChannelSourceAsync(OperationContext operationContext, IReadOnlyCollection`1 deprioritizedServers)
+   at MongoDB.Driver.Core.Operations.RetryableReadContext.AcquireOrReplaceChannelAsync(OperationContext operationContext, IReadOnlyCollection`1 deprioritizedServers)
+   at MongoDB.Driver.Core.Operations.RetryableReadContext.CreateAsync(OperationContext operationContext, IReadBinding binding, Boolean retryRequested)
+   at MongoDB.Driver.Core.Operations.FindOperation`1.ExecuteAsync(OperationContext operationContext, IReadBinding binding)
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperationAsync[TResult](OperationContext operationContext, IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, Boolean allowChannelPinning)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperationAsync[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference explicitReadPreference, Nullable`1 timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindAsync[TProjection](FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.IAsyncCursorSourceExtensions.ToListAsync[TDocument](IAsyncCursorSource`1 source, CancellationToken cancellationToken)
+   at CMART.STUDENTS.INFRASTRUCTURE.Respositories.StudentRepository.GetAllAsync() in C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.INFRASTRUCTURE\Respositories\StudentRepository.cs:line 17
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at CMART.STUDENTS.SERVICES.Services.StudentService.Get() in C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.SERVICES\Services\StudentService.cs:line 23
+   at CMART.STUDENTS.API.Controllers.StudentsController.Get() in C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API\Controllers\StudentsController.cs:line 32
+2025-09-25 06:43:55Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 06:53:04Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-25 06:53:04Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-25 06:53:05Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-25 06:53:05Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-25 06:53:05Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-25 06:53:05Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-25 06:53:05Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-25 06:53:06Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-25 06:53:06Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 06:53:06Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-25 06:53:06Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 06:53:27Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 06:53:28Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 06:53:30Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 06:53:30Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 06:54:16Z [Information] CMART.STUDENTS.API: Handling request: GET /api/Students
+2025-09-25 06:54:16Z [Error] Program: Authentication failed.
+System.ArgumentException: IDX14102: Unable to decode the header '[PII of type 'Microsoft.IdentityModel.Logging.SecurityArtifact' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' as Base64Url encoded string.
+ ---> System.FormatException: IDX10400: Unable to decode: '[PII of type 'System.String' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' as Base64url encoded string.
+   at Microsoft.IdentityModel.Tokens.Base64UrlEncoder.Decode(ReadOnlySpan`1 strSpan, Span`1 output, Boolean needReplace, Int32 decodedLength)
+   at Microsoft.IdentityModel.Tokens.Base64UrlEncoder.Decode(ReadOnlySpan`1 strSpan, Span`1 output)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.CreateClaimSet(ReadOnlySpan`1 strSpan, Int32 startIndex, Int32 length, Boolean createHeaderClaimSet)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   --- End of inner exception stack trace ---
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken..ctor(String jwtEncodedString)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ReadToken(String token, TokenValidationParameters validationParameters)
+2025-09-25 06:54:16Z [Warning] Program: OnChallenge error: invalid_token, Description: 
+2025-09-25 06:54:16Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 06:54:54Z [Information] CMART.STUDENTS.API: Handling request: GET /api/Students
+2025-09-25 06:54:55Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Get all students requested
+2025-09-25 06:55:28Z [Error] CMART.STUDENTS.API.Controllers.StudentsController: Error fetching students
+System.AggregateException: One or more errors occurred. (A timeout occurred after 30012ms selecting a server using CompositeServerSelector{ Selectors = ReadPreferenceServerSelector{ ReadPreference = { Mode : Primary } }, LatencyLimitingServerSelector{ AllowedLatencyRange = 00:00:00.0150000 }, OperationsCountServerSelector }. Client view of cluster state is { ClusterId : "1", Type : "ReplicaSet", State : "Disconnected", Servers : [{ ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-00.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-00.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T06:55:25.8111126Z", LastUpdateTimestamp: "2025-09-25T06:55:25.8111128Z" }, { ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-01.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-01.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T06:55:25.8163964Z", LastUpdateTimestamp: "2025-09-25T06:55:25.8163967Z" }, { ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-02.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-02.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T06:55:25.8597196Z", LastUpdateTimestamp: "2025-09-25T06:55:25.8597198Z" }] }.)
+ ---> System.TimeoutException: A timeout occurred after 30012ms selecting a server using CompositeServerSelector{ Selectors = ReadPreferenceServerSelector{ ReadPreference = { Mode : Primary } }, LatencyLimitingServerSelector{ AllowedLatencyRange = 00:00:00.0150000 }, OperationsCountServerSelector }. Client view of cluster state is { ClusterId : "1", Type : "ReplicaSet", State : "Disconnected", Servers : [{ ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-00.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-00.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T06:55:25.8111126Z", LastUpdateTimestamp: "2025-09-25T06:55:25.8111128Z" }, { ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-01.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-01.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T06:55:25.8163964Z", LastUpdateTimestamp: "2025-09-25T06:55:25.8163967Z" }, { ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-02.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-02.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T06:55:25.8597196Z", LastUpdateTimestamp: "2025-09-25T06:55:25.8597198Z" }] }.
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServerAsync(OperationContext operationContext, IServerSelector selector)
+   at MongoDB.Driver.Core.Clusters.IClusterExtensions.SelectServerAndPinIfNeededAsync(IClusterInternal cluster, OperationContext operationContext, ICoreSessionHandle session, IServerSelector selector, IReadOnlyCollection`1 deprioritizedServers)
+   at MongoDB.Driver.Core.Bindings.ReadPreferenceBinding.GetReadChannelSourceAsync(OperationContext operationContext, IReadOnlyCollection`1 deprioritizedServers)
+   at MongoDB.Driver.Core.Operations.RetryableReadContext.AcquireOrReplaceChannelAsync(OperationContext operationContext, IReadOnlyCollection`1 deprioritizedServers)
+   at MongoDB.Driver.Core.Operations.RetryableReadContext.CreateAsync(OperationContext operationContext, IReadBinding binding, Boolean retryRequested)
+   at MongoDB.Driver.Core.Operations.FindOperation`1.ExecuteAsync(OperationContext operationContext, IReadBinding binding)
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperationAsync[TResult](OperationContext operationContext, IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, Boolean allowChannelPinning)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperationAsync[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference explicitReadPreference, Nullable`1 timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindAsync[TProjection](FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.IAsyncCursorSourceExtensions.ToListAsync[TDocument](IAsyncCursorSource`1 source, CancellationToken cancellationToken)
+   at CMART.STUDENTS.INFRASTRUCTURE.Respositories.StudentRepository.GetAllAsync() in C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.INFRASTRUCTURE\Respositories\StudentRepository.cs:line 17
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at CMART.STUDENTS.SERVICES.Services.StudentService.Get() in C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.SERVICES\Services\StudentService.cs:line 23
+   at CMART.STUDENTS.API.Controllers.StudentsController.Get() in C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API\Controllers\StudentsController.cs:line 32
+2025-09-25 06:55:28Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 07:10:24Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-25 07:10:25Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-25 07:10:25Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-25 07:10:25Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-25 07:10:25Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-25 07:10:25Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-25 07:10:25Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-25 07:10:26Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-25 07:10:26Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 07:10:27Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-25 07:10:27Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 07:10:44Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 07:10:44Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 07:11:11Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 07:11:12Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 07:11:36Z [Information] CMART.STUDENTS.API: Handling request: GET /api/Students
+2025-09-25 07:11:37Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Get all students requested
+2025-09-25 07:12:09Z [Error] CMART.STUDENTS.API.Controllers.StudentsController: Error fetching students
+System.TimeoutException: A timeout occurred after 29990ms selecting a server using CompositeServerSelector{ Selectors = ReadPreferenceServerSelector{ ReadPreference = { Mode : Primary } }, LatencyLimitingServerSelector{ AllowedLatencyRange = 00:00:00.0150000 }, OperationsCountServerSelector }. Client view of cluster state is { ClusterId : "1", Type : "ReplicaSet", State : "Disconnected", Servers : [{ ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-00.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-00.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T07:12:07.1465110Z", LastUpdateTimestamp: "2025-09-25T07:12:07.1465112Z" }, { ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-01.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-01.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T07:12:06.7174124Z", LastUpdateTimestamp: "2025-09-25T07:12:06.7174126Z" }, { ServerId: "{ ClusterId : 1, EndPoint : "Unspecified/ac-iys8k8m-shard-00-02.6jjimdx.mongodb.net:27017" }", EndPoint: "Unspecified/ac-iys8k8m-shard-00-02.6jjimdx.mongodb.net:27017", ReasonChanged: "Heartbeat", State: "Disconnected", ServerVersion: , TopologyVersion: , Type: "Unknown", HeartbeatException: "MongoDB.Driver.MongoConnectionException: An exception occurred while opening a connection to the server.
+ ---> System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090304): The Local Security Authority cannot be contacted
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.SslStreamFactory.CreateStream(EndPoint endPoint, CancellationToken cancellationToken)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   --- End of inner exception stack trace ---
+   at MongoDB.Driver.Core.Connections.BinaryConnection.OpenHelper(OperationContext operationContext)
+   at MongoDB.Driver.Core.Connections.BinaryConnection.Open(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.InitializeConnection(OperationContext operationContext)
+   at MongoDB.Driver.Core.Servers.ServerMonitor.Heartbeat(CancellationToken cancellationToken)", LastHeartbeatTimestamp: "2025-09-25T07:12:07.1460282Z", LastUpdateTimestamp: "2025-09-25T07:12:07.1460284Z" }] }.
+   at MongoDB.Driver.Core.Clusters.Cluster.SelectServerAsync(OperationContext operationContext, IServerSelector selector)
+   at MongoDB.Driver.Core.Clusters.IClusterExtensions.SelectServerAndPinIfNeededAsync(IClusterInternal cluster, OperationContext operationContext, ICoreSessionHandle session, IServerSelector selector, IReadOnlyCollection`1 deprioritizedServers)
+   at MongoDB.Driver.Core.Bindings.ReadPreferenceBinding.GetReadChannelSourceAsync(OperationContext operationContext, IReadOnlyCollection`1 deprioritizedServers)
+   at MongoDB.Driver.Core.Operations.RetryableReadContext.AcquireOrReplaceChannelAsync(OperationContext operationContext, IReadOnlyCollection`1 deprioritizedServers)
+   at MongoDB.Driver.Core.Operations.RetryableReadContext.CreateAsync(OperationContext operationContext, IReadBinding binding, Boolean retryRequested)
+   at MongoDB.Driver.Core.Operations.FindOperation`1.ExecuteAsync(OperationContext operationContext, IReadBinding binding)
+   at MongoDB.Driver.OperationExecutor.ExecuteReadOperationAsync[TResult](OperationContext operationContext, IClientSessionHandle session, IReadOperation`1 operation, ReadPreference readPreference, Boolean allowChannelPinning)
+   at MongoDB.Driver.MongoCollectionImpl`1.ExecuteReadOperationAsync[TResult](IClientSessionHandle session, IReadOperation`1 operation, ReadPreference explicitReadPreference, Nullable`1 timeout, CancellationToken cancellationToken)
+   at MongoDB.Driver.MongoCollectionImpl`1.FindAsync[TProjection](FilterDefinition`1 filter, FindOptions`2 options, CancellationToken cancellationToken)
+   at MongoDB.Driver.IAsyncCursorSourceExtensions.ToListAsync[TDocument](IAsyncCursorSource`1 source, CancellationToken cancellationToken)
+   at CMART.STUDENTS.INFRASTRUCTURE.Respositories.StudentRepository.GetAllAsync() in C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.INFRASTRUCTURE\Respositories\StudentRepository.cs:line 17
+   at CMART.STUDENTS.SERVICES.Services.StudentService.GetAsync() in C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.SERVICES\Services\StudentService.cs:line 25
+   at CMART.STUDENTS.API.Controllers.StudentsController.Get() in C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API\Controllers\StudentsController.cs:line 33
+2025-09-25 07:12:09Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 07:15:22Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-25 07:15:22Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-25 07:15:23Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-25 07:15:23Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-25 07:15:23Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-25 07:15:23Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-25 07:15:23Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-25 07:15:24Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-25 07:15:24Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 07:15:24Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-25 07:15:24Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 07:16:01Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 07:16:02Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 07:16:38Z [Information] CMART.STUDENTS.API: Handling request: GET /api/Students
+2025-09-25 07:16:39Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Get all students requested
+2025-09-25 07:16:41Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 07:33:42Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 07:33:42Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 07:33:57Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 07:33:57Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 07:38:47Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-25 07:38:47Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-25 07:38:47Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-25 07:38:47Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-25 07:38:47Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-25 07:38:47Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-25 07:38:47Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-25 07:38:48Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-25 07:38:48Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 07:38:48Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-25 07:38:48Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 07:39:07Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 07:39:07Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 07:39:23Z [Information] CMART.STUDENTS.API: Handling request: GET /api/Students
+2025-09-25 07:39:24Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Received request to get all students
+2025-09-25 07:39:25Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Returned 5 students
+2025-09-25 07:39:25Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 07:39:44Z [Information] CMART.STUDENTS.API: Handling request: DELETE /api/Students/650a9f85b27c3c2b4d9f1234
+2025-09-25 07:39:44Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Received request to delete student with Id 650a9f85b27c3c2b4d9f1234
+2025-09-25 07:39:44Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Successfully deleted student with Id 650a9f85b27c3c2b4d9f1234
+2025-09-25 07:39:44Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 08:55:04Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-25 08:55:04Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-25 08:55:04Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-25 08:55:04Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-25 08:55:05Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-25 08:55:05Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-25 08:55:05Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-25 08:55:05Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-25 08:55:05Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 08:55:06Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-25 08:55:06Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:02:18Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-25 09:02:19Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-25 09:02:19Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-25 09:02:19Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-25 09:02:19Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-25 09:02:19Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-25 09:02:19Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-25 09:02:20Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-25 09:02:20Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:02:21Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-25 09:02:21Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:13:10Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-25 09:13:10Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-25 09:13:11Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-25 09:13:11Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-25 09:13:11Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-25 09:13:11Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-25 09:13:11Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-25 09:13:12Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-25 09:13:12Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:13:12Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-25 09:13:12Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:14:17Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 09:14:17Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:14:36Z [Information] CMART.STUDENTS.API: Handling request: GET /api/Students
+2025-09-25 09:14:39Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Get all students requested
+2025-09-25 09:14:40Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Returned 4 students
+2025-09-25 09:14:41Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:18:43Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Students
+2025-09-25 09:18:43Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Create student requested: Alice Johnson
+2025-09-25 09:18:43Z [Warning] CMART.STUDENTS.API.Controllers.StudentsController: Invalid model state for student creation
+2025-09-25 09:18:43Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:18:55Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Students
+2025-09-25 09:18:55Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Create student requested: Alice Johnson
+2025-09-25 09:18:55Z [Warning] CMART.STUDENTS.API.Controllers.StudentsController: Invalid model state for student creation
+2025-09-25 09:18:55Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:19:05Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Students
+2025-09-25 09:19:05Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Create student requested: Alice Johnson
+2025-09-25 09:19:05Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Student created with Id 650a9f85b27c3c2b4d9f1234
+2025-09-25 09:19:05Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:20:21Z [Information] CMART.STUDENTS.API: Handling request: GET /api/Students/650a9f85b27c3c2b4d9f1234
+2025-09-25 09:20:22Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:20:53Z [Information] CMART.STUDENTS.API: Handling request: PUT /api/Students/650a9f85b27c3c2b4d9f1234
+2025-09-25 09:20:53Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Update student with Id 650a9f85b27c3c2b4d9f1234 requested
+2025-09-25 09:20:53Z [Warning] CMART.STUDENTS.API.Controllers.StudentsController: Invalid model state for student update with Id 650a9f85b27c3c2b4d9f1234
+2025-09-25 09:20:53Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:21:01Z [Information] CMART.STUDENTS.API: Handling request: PUT /api/Students/650a9f85b27c3c2b4d9f1234
+2025-09-25 09:21:01Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Update student with Id 650a9f85b27c3c2b4d9f1234 requested
+2025-09-25 09:21:01Z [Warning] CMART.STUDENTS.API.Controllers.StudentsController: Invalid model state for student update with Id 650a9f85b27c3c2b4d9f1234
+2025-09-25 09:21:01Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:21:10Z [Information] CMART.STUDENTS.API: Handling request: PUT /api/Students/650a9f85b27c3c2b4d9f1234
+2025-09-25 09:21:10Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Update student with Id 650a9f85b27c3c2b4d9f1234 requested
+2025-09-25 09:21:10Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Student updated with Id 650a9f85b27c3c2b4d9f1234
+2025-09-25 09:21:10Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:21:49Z [Information] CMART.STUDENTS.API: Handling request: DELETE /api/Students/650a9f85b27c3c2b4d9f1234
+2025-09-25 09:21:49Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Delete student with Id 650a9f85b27c3c2b4d9f1234 requested
+2025-09-25 09:21:49Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Student deleted with Id 650a9f85b27c3c2b4d9f1234
+2025-09-25 09:21:49Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:23:35Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 09:23:35Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:23:56Z [Information] CMART.STUDENTS.API: Handling request: GET /api/Students
+2025-09-25 09:23:56Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Get all students requested
+2025-09-25 09:23:56Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Returned 4 students
+2025-09-25 09:23:56Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:24:13Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Students
+2025-09-25 09:24:13Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Create student requested: Alice Johnson
+2025-09-25 09:24:13Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Student created with Id 650a9f85b27c3c2b4d9f1234
+2025-09-25 09:24:13Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:24:32Z [Information] CMART.STUDENTS.API: Handling request: DELETE /api/Students/650a9f85b27c3c2b4d9f1234
+2025-09-25 09:24:32Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:25:09Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 09:25:09Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:25:26Z [Information] CMART.STUDENTS.API: Handling request: GET /api/Students
+2025-09-25 09:25:26Z [Error] Program: Authentication failed.
+Microsoft.IdentityModel.Tokens.SecurityTokenMalformedException: IDX14100: JWT is not well formed, there are no dots (.).
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EncodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken..ctor(String jwtEncodedString)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ReadToken(String token, TokenValidationParameters validationParameters)
+2025-09-25 09:25:26Z [Warning] Program: OnChallenge error: invalid_token, Description: 
+2025-09-25 09:25:26Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:25:45Z [Information] CMART.STUDENTS.API: Handling request: GET /api/Students
+2025-09-25 09:25:45Z [Error] Program: Authentication failed.
+Microsoft.IdentityModel.Tokens.SecurityTokenMalformedException: IDX14100: JWT is not well formed, there are no dots (.).
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EncodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken..ctor(String jwtEncodedString)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ReadToken(String token, TokenValidationParameters validationParameters)
+2025-09-25 09:25:45Z [Warning] Program: OnChallenge error: invalid_token, Description: 
+2025-09-25 09:25:45Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:26:02Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-25 09:26:02Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-25 09:26:03Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-25 09:26:03Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-25 09:26:03Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-25 09:26:03Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-25 09:26:03Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-25 09:26:04Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-25 09:26:04Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:26:04Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-25 09:26:04Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:26:22Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-25 09:26:22Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:26:39Z [Information] CMART.STUDENTS.API: Handling request: GET /api/Students
+2025-09-25 09:26:41Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Get all students requested
+2025-09-25 09:26:42Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Returned 5 students
+2025-09-25 09:26:42Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:28:29Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Students
+2025-09-25 09:28:29Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:29:24Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Students
+2025-09-25 09:29:24Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-25 09:29:45Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Students
+2025-09-25 09:29:45Z [Information] CMART.STUDENTS.API: Finished handling request

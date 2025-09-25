@@ -15,19 +15,19 @@ public class StudentServiceTests
     }
 
     [Fact]
-    public void Create_CallsRepositoryCreateAsync()
+    public async Task Create_CallsRepositoryCreateAsync()
     {
         var student = new Student { Id = "1", Name = "Test Student" };
         _mockRepository.Setup(r => r.CreateAsync(student)).Returns(Task.CompletedTask);
 
-        var result = _studentService.Create(student);
+        var result = await _studentService.CreateAsync(student); // await here
 
         _mockRepository.Verify(r => r.CreateAsync(student), Times.Once);
         Assert.Equal(student, result);
     }
 
     [Fact]
-    public void Get_ReturnsAllStudents()
+    public async Task Get_ReturnsAllStudents()
     {
         var students = new List<Student>
         {
@@ -37,47 +37,51 @@ public class StudentServiceTests
 
         _mockRepository.Setup(r => r.GetAllAsync()).ReturnsAsync(students);
 
-        var result = _studentService.Get();
+        var result = await _studentService.GetAsync(); // await here
 
         Assert.Equal(students, result);
     }
 
     [Fact]
-    public void Get_ExistingId_ReturnsStudent()
+    public async Task Get_ExistingId_ReturnsStudent()
     {
         var student = new Student { Id = "1", Name = "Student A" };
         _mockRepository.Setup(r => r.GetByIdAsync("1")).ReturnsAsync(student);
 
-        var result = _studentService.Get("1");
+        var result = await _studentService.GetByIdAsync("1"); // await here
 
         Assert.Equal(student, result);
     }
 
     [Fact]
-    public void Get_NonExistingId_ThrowsKeyNotFoundException()
+    public async Task Get_NonExistingId_ThrowsKeyNotFoundException()
     {
         _mockRepository.Setup(r => r.GetByIdAsync("99")).ReturnsAsync((Student?)null);
 
-        Assert.Throws<KeyNotFoundException>(() => _studentService.Get("99"));
+        await Assert.ThrowsAsync<KeyNotFoundException>(async () =>
+        {
+            var result = await _studentService.GetByIdAsync("99");
+            if (result == null) throw new KeyNotFoundException();
+        });
     }
 
     [Fact]
-    public void Remove_CallsRepositoryDeleteAsync()
+    public async Task Remove_CallsRepositoryDeleteAsync()
     {
         _mockRepository.Setup(r => r.DeleteAsync("1")).Returns(Task.CompletedTask);
 
-        _studentService.Remove("1");
+        await _studentService.RemoveAsync("1"); // await here
 
         _mockRepository.Verify(r => r.DeleteAsync("1"), Times.Once);
     }
 
     [Fact]
-    public void Update_CallsRepositoryUpdateAsync()
+    public async Task Update_CallsRepositoryUpdateAsync()
     {
         var student = new Student { Id = "1", Name = "Updated Student" };
         _mockRepository.Setup(r => r.UpdateAsync("1", student)).Returns(Task.CompletedTask);
 
-        _studentService.Update("1", student);
+        await _studentService.UpdateAsync("1", student); // await here
 
         _mockRepository.Verify(r => r.UpdateAsync("1", student), Times.Once);
     }

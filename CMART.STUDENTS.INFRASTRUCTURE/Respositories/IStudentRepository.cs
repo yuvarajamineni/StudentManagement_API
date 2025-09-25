@@ -11,4 +11,3 @@ namespace CMART.STUDENTS.INFRASTRUCTURE.Respositories
         Task DeleteAsync(string id);
     }
 }
-

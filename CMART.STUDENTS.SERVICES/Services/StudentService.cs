@@ -12,33 +12,30 @@ namespace CMART.STUDENTS.SERVICES.Services
             _repository = repository;
         }
 
-        public Student Create(Student student)
+        public async Task<Student> CreateAsync(Student student)
         {
-            _repository.CreateAsync(student).Wait();
+            await _repository.CreateAsync(student);
             return student;
         }
 
-        public List<Student> Get()
+        public async Task<List<Student>> GetAsync()
         {
-            return _repository.GetAllAsync().Result;
+            return await _repository.GetAllAsync();
         }
 
-        public Student Get(string id)
+        public async Task<Student?> GetByIdAsync(string id)
         {
-            var student = _repository.GetByIdAsync(id).Result;
-            if (student == null)
-                throw new KeyNotFoundException($"Student with id '{id}' not found.");
-            return student;
+            return await _repository.GetByIdAsync(id);
         }
 
-        public void Remove(string id)
+        public async Task RemoveAsync(string id)
         {
-            _repository.DeleteAsync(id).Wait();
+            await _repository.DeleteAsync(id);
         }
 
-        public void Update(string id, Student student)
+        public async Task UpdateAsync(string id, Student student)
         {
-            _repository.UpdateAsync(id, student).Wait();
+            await _repository.UpdateAsync(id, student);
         }
     }
 }

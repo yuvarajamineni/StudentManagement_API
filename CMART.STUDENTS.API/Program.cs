@@ -3,79 +3,130 @@ using MongoDB.Driver;
 using CMART.STUDENTS.SERVICES.Services;
 using CMART.STUDENTS.INFRASTRUCTURE.Respositories;
 using CMART.STUDENTS.CORE.Models;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using Microsoft.OpenApi.Models;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add console logging and your existing custom file logger
 builder.Logging.AddConsole();
 builder.Logging.AddProvider(new SimpleFileLoggerProvider("logs/student_api_log.txt"));
 
-// Configure MongoDB settings
-builder.Services.Configure<StudentStoreDatabaseSettings>(
-    builder.Configuration.GetSection(nameof(StudentStoreDatabaseSettings)));
+// JWT setup
+var jwtKey = builder.Configuration["Jwt:Key"];
+if (string.IsNullOrEmpty(jwtKey))
+    throw new InvalidOperationException("JWT key is missing in configuration");
 
-builder.Services.AddSingleton<IStudentStoreDatabaseSettings>(sp =>
-    sp.GetRequiredService<IOptions<StudentStoreDatabaseSettings>>().Value);
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+}).AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true,
+        ValidIssuer = builder.Configuration["Jwt:Issuer"],
+        ValidAudience = builder.Configuration["Jwt:Audience"],
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtKey)),
+        RoleClaimType = System.Security.Claims.ClaimTypes.Role,
+        NameClaimType = System.Security.Claims.ClaimTypes.Name
+    };
+    options.Events = new JwtBearerEvents
+    {
+        OnAuthenticationFailed = context =>
+        {
+            var logger = context.HttpContext.RequestServices.GetRequiredService<ILogger<Program>>();
+            logger.LogError(context.Exception, "Authentication failed.");
+            return Task.CompletedTask;
+        },
+        OnChallenge = context =>
+        {
+            var logger = context.HttpContext.RequestServices.GetRequiredService<ILogger<Program>>();
+            logger.LogWarning($"OnChallenge error: {context.Error}, Description: {context.ErrorDescription}");
+            return Task.CompletedTask;
+        }
+    };
+});
 
-// MongoDB client
-builder.Services.AddSingleton<IMongoClient>(s =>
-    new MongoClient(builder.Configuration.GetValue<string>("StudentStoreDatabaseSettings:ConnectionString")));
+builder.Services.AddAuthorization();
 
-// Register repository + service
+builder.Services.Configure<StudentStoreDatabaseSettings>(builder.Configuration.GetSection(nameof(StudentStoreDatabaseSettings)));
+
+builder.Services.AddSingleton<IStudentStoreDatabaseSettings>(sp => sp.GetRequiredService<IOptions<StudentStoreDatabaseSettings>>().Value);
+builder.Services.AddSingleton<IMongoClient>(s => new MongoClient(builder.Configuration.GetValue<string>("StudentStoreDatabaseSettings:ConnectionString")));
 builder.Services.AddScoped<IStudentRepository, StudentRepository>();
 builder.Services.AddScoped<IStudentService, StudentService>();
 
-// Controllers & Swagger
 builder.Services.AddControllers();
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
 
-// CORS - allow all origins, methods, headers (for testing)
-builder.Services.AddCors(options =>
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen(opt =>
 {
-    options.AddPolicy("AllowAll", policy =>
+    opt.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
     {
-        policy.AllowAnyOrigin()
-              .AllowAnyMethod()
-              .AllowAnyHeader();
+        In = ParameterLocation.Header,
+        Description = "Please enter JWT with Bearer scheme",
+        Name = "Authorization",
+        Type = SecuritySchemeType.Http,
+        BearerFormat = "JWT",
+        Scheme = "bearer"
+    });
+    opt.AddSecurityRequirement(new OpenApiSecurityRequirement
+    {
+        {
+            new OpenApiSecurityScheme
+            {
+            Reference = new OpenApiReference { Type = ReferenceType.SecurityScheme, Id = "Bearer" }
+            },
+            new string[] {}
+        }
     });
 });
 
-// Force URLs
+builder.Services.AddCors(options => options.AddPolicy("AllowAll", policy =>
+{
+    policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+}));
+
 builder.WebHost.UseUrls("http://localhost:5212", "https://localhost:5213");
 
 var app = builder.Build();
 
-// Log application startup
 app.Logger.LogInformation("Application starting up");
 
-// Middleware to log HTTP request start and end
 app.Use(async (context, next) =>
 {
     app.Logger.LogInformation("Handling request: {Method} {Path}", context.Request.Method, context.Request.Path);
-    await next.Invoke();
+    await next();
     app.Logger.LogInformation("Finished handling request");
 });
 
-// Enable CORS
 app.UseCors("AllowAll");
 
-// Swagger only in development
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
         c.SwaggerEndpoint("/swagger/v1/swagger.json", "Student Management API");
-        c.RoutePrefix = string.Empty; // Opens Swagger at root (http://localhost:5212/)
+        c.RoutePrefix = string.Empty;
     });
 }
 
 app.UseHttpsRedirection();
+
+app.UseRouting();
+
+app.UseAuthentication();
 app.UseAuthorization();
+
 app.MapControllers();
 
-// Log application ready state
 app.Logger.LogInformation("Application started and ready to handle requests");
 
 app.Run();

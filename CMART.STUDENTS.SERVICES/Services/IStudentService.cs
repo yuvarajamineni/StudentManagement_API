@@ -4,10 +4,10 @@ namespace CMART.STUDENTS.SERVICES.Services
 {
     public interface IStudentService
     {
-        List<Student> Get();
-        Student Get(string id);
-        Student Create(Student student);
-        void Update(string id, Student student);
-        void Remove(string id);
+        Task<List<Student>> GetAsync();
+        Task<Student?> GetByIdAsync(string id);
+        Task<Student> CreateAsync(Student student);
+        Task UpdateAsync(string id, Student student);
+        Task RemoveAsync(string id);
     }
 }
