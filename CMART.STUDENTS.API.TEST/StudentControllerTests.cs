@@ -4,9 +4,6 @@ using CMART.STUDENTS.API.Controllers;
 using CMART.STUDENTS.CORE.Models;
 using CMART.STUDENTS.SERVICES.Services;
 using Microsoft.AspNetCore.Mvc;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-using Xunit;
 
 public class StudentsControllerTests
 {
