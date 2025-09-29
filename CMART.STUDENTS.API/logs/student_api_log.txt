@@ -847,3 +847,54 @@ The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'Encode
 2025-09-26 07:28:57Z [Information] CMART.STUDENTS.API: Finished handling request
 2025-09-26 07:28:57Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
 2025-09-26 07:28:57Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-26 07:33:43Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-26 07:33:43Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-26 07:33:44Z [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5212
+2025-09-26 07:33:44Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-26 07:33:44Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-26 07:33:44Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-26 07:33:44Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-26 07:33:44Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-26 07:33:44Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-26 07:33:45Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-26 07:33:45Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-26 07:33:47Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-26 07:33:47Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-26 07:33:47Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-26 07:33:47Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-29 04:50:50Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-29 04:50:51Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-29 04:50:53Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-29 04:50:53Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-29 04:50:53Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-29 04:50:53Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-29 04:50:55Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-29 04:50:55Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-29 04:50:56Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-29 04:50:56Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-29 04:51:17Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-29 04:51:18Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-29 04:51:39Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-29 04:51:39Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-29 05:09:32Z [Information] CMART.STUDENTS.API: Application starting up
+2025-09-29 05:09:32Z [Information] CMART.STUDENTS.API: Application started and ready to handle requests
+2025-09-29 05:09:32Z [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:5213
+2025-09-29 05:09:32Z [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2025-09-29 05:09:33Z [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2025-09-29 05:09:33Z [Information] Microsoft.Hosting.Lifetime: Content root path: C:\Assignments\.NET\CMART.STUDENTS.API\CMART.STUDENTS.API
+2025-09-29 05:09:33Z [Information] CMART.STUDENTS.API: Handling request: GET /index.html
+2025-09-29 05:09:34Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-29 05:09:34Z [Information] CMART.STUDENTS.API: Handling request: GET /swagger/v1/swagger.json
+2025-09-29 05:09:34Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-29 05:09:56Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-29 05:09:56Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-29 05:09:58Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-29 05:09:58Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-29 05:10:15Z [Information] CMART.STUDENTS.API: Handling request: GET /api/Students
+2025-09-29 05:10:16Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Get all students requested
+2025-09-29 05:10:19Z [Information] CMART.STUDENTS.API.Controllers.StudentsController: Returned 5 students
+2025-09-29 05:10:19Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-29 05:11:16Z [Information] CMART.STUDENTS.API: Handling request: POST /api/Auth/login
+2025-09-29 05:11:16Z [Information] CMART.STUDENTS.API: Finished handling request
+2025-09-29 05:12:04Z [Information] CMART.STUDENTS.API: Handling request: DELETE /api/Students/650a9f85b27c3c2b4d9f1234
+2025-09-29 05:12:04Z [Information] CMART.STUDENTS.API: Finished handling request

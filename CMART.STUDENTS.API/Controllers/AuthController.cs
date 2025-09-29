@@ -13,11 +13,12 @@ namespace CMART.STUDENTS.API.Controllers
     {
         private readonly IConfiguration _configuration;
 
-        private readonly (string Username, string Password, string Role)[] _users = new[]
+        // ✅ Each user can now have multiple roles
+        private readonly (string Username, string Password, string[] Roles)[] _users = new[]
         {
-            ("User1", "password1", "Admin"),
-            ("User2", "password2", "Moderator"),
-            ("User3", "password3", "ReadOnly")
+            ("User1", "password1", new[] { "Admin", "Moderator" }),
+            ("User2", "password2", new[] { "Moderator", "ReadOnly" }),
+            ("User3", "password3", new[] { "ReadOnly" })
         };
 
         public AuthController(IConfiguration configuration)
@@ -35,19 +36,28 @@ namespace CMART.STUDENTS.API.Controllers
         [AllowAnonymous]
         public IActionResult Login([FromBody] LoginRequest login)
         {
-            var user = Array.Find(_users, u => u.Username == login.Username && u.Password == login.Password);
+            var user = _users.FirstOrDefault(u =>
+                u.Username == login.Username && u.Password == login.Password);
+
             if (user == default)
                 return Unauthorized("Invalid username or password");
 
             var key = Encoding.UTF8.GetBytes(_configuration["Jwt:Key"]!);
 
+            // ✅ Build claims (including multiple roles)
+            var claims = new List<Claim>
+            {
+                new Claim(ClaimTypes.Name, user.Username)
+            };
+
+            foreach (var role in user.Roles)
+            {
+                claims.Add(new Claim(ClaimTypes.Role, role));
+            }
+
             var tokenDescriptor = new SecurityTokenDescriptor
             {
-                Subject = new ClaimsIdentity(new[]
-                {
-                    new Claim(ClaimTypes.Name, user.Username),
-                    new Claim(ClaimTypes.Role, user.Role)
-                }),
+                Subject = new ClaimsIdentity(claims),
                 Expires = DateTime.UtcNow.AddMinutes(30),
                 Issuer = _configuration["Jwt:Issuer"],
                 Audience = _configuration["Jwt:Audience"],

@@ -81,19 +81,12 @@ builder.Services.AddSwaggerGen(opt =>
         {
             new OpenApiSecurityScheme
             {
-            Reference = new OpenApiReference { Type = ReferenceType.SecurityScheme, Id = "Bearer" }
+                Reference = new OpenApiReference { Type = ReferenceType.SecurityScheme, Id = "Bearer" }
             },
             new string[] {}
         }
     });
 });
-
-builder.Services.AddCors(options => options.AddPolicy("AllowAll", policy =>
-{
-    policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
-}));
-
-builder.WebHost.UseUrls("http://localhost:5212", "https://localhost:5213");
 
 var app = builder.Build();
 
@@ -105,8 +98,6 @@ app.Use(async (context, next) =>
     await next();
     app.Logger.LogInformation("Finished handling request");
 });
-
-app.UseCors("AllowAll");
 
 if (app.Environment.IsDevelopment())
 {
